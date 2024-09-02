@@ -16,7 +16,7 @@ This Weather Widget is a customizable, embeddable component that displays local 
 
 To add this weather widget to your website, simply copy and paste the following code into your HTML:
 html
-<iframe src="https://sunao.github.io/weather-widget/" width="300" height="400" frameborder="0"></iframe>
+<iframe src="https://lovepoity.github.io/weather-widget/" width="300" height="300" frameborder="0"></iframe>
 
 You can adjust the `width` and `height` attributes to fit your design needs.
 
